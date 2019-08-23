@@ -1,12 +1,3 @@
-## TO DO
-
-### Desafio 02
-
-- [ ] Auth: Realize a validação dos dados de entrada;
-- [ ] Update: tudo;
-- [ ] Create: Realize a validação dos dados de entrada;
-- [ ] Update: Realize a validação dos dados de entrada;
-
 > All challenges are just one project.
 
 # Desafio 02. Iniciando aplicação
