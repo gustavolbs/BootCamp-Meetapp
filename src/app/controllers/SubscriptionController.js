@@ -35,8 +35,8 @@ class SubscriptionController {
     });
 
     console.log('print');
-    console.log(meetup.user_id);
-    console.log('print');
+    console.log(await Meetup.findByPk(req.params.meetupId));
+    console.log(meetup);
 
     if (meetup.user_id === req.userId) {
       return res
